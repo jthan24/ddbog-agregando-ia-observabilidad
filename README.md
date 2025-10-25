@@ -11,12 +11,12 @@ docker compose up --force-recreate --remove-orphans --detach
 https://opentelemetry.io/docs/demo/architecture/
 
 ### Acceso grafana
-Web store: http://157.137.225.33:8080/
-Grafana: http://157.137.225.33:8080/grafana/
-Load Generator UI: http://157.137.225.33:8080/loadgen/
-Jaeger UI: http://157.137.225.33:8080/jaeger/ui/
-Tracetest UI: http://157.137.225.33:11633/, only when using make run-tracetesting
-Flagd configurator UI: http://157.137.225.33:8080/feature
+- Web store: http://157.137.225.33:8080/
+- Grafana: http://157.137.225.33:8080/grafana/
+- Load Generator UI: http://157.137.225.33:8080/loadgen/
+- Jaeger UI: http://157.137.225.33:8080/jaeger/ui/
+- Tracetest UI: http://157.137.225.33:11633/, only when using make run-tracetesting
+- Flagd configurator UI: http://157.137.225.33:8080/feature
 
 
 ### Referencias
